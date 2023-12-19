@@ -8,4 +8,6 @@ local BlacKlIst_89171050018619910013_plr_name = {
 
 --]]
 
-BlacKlIst_89171050018619910013_plr_name = {}
+BlacKlIst_89171050018619910013_plr_name = {
+    {Username = "miojoteteu", permanent = true, date = nil}
+}
