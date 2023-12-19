@@ -1,0 +1,11 @@
+--[[
+
+--// list example //
+
+local blacklist = {
+    {Username = "name", permanent = 666, date = "year-month-day"}
+}
+
+--]]
+
+blacklist = {}
