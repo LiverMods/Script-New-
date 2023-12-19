@@ -2,10 +2,10 @@
 
 --// list example //
 
-local blacklist = {
+local BlacKlIst_89171050018619910013_plr_name = {
     {Username = "name", permanent = 666, date = "year-month-day"}
 }
 
 --]]
 
-blacklist = {}
+BlacKlIst_89171050018619910013_plr_name = {}
