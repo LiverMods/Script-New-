@@ -10,5 +10,5 @@ local BlacKlIst_89171050018619910013_plr_name = {
 
 BlacKlIst_89171050018619910013_plr_name = {
     {Username = "gabicol931", permanent = true, date = nil},
-    {Username = "jordan_NSS4", permanent = false, date = "2040-11-22"}
+    {Username = "jordan_NSS4", permanent = true, date = nil}
 }
